@@ -1,0 +1,11 @@
+[user]
+	name = <username>
+	email = <email>
+
+[alias]
+  tree = log --graph --all --decorate --oneline
+  c = commit
+  ck = checkout
+  cln = remote prune
+  bd = branch -d
+  bD = branch -D
