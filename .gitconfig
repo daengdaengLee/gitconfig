@@ -1,6 +1,6 @@
 [user]
-	name = <username>
-	email = <email>
+  name = <username>
+  email = <email>
 
 [alias]
   tree = log --graph --all --decorate --oneline
@@ -9,3 +9,4 @@
   cln = remote prune
   bd = branch -d
   bD = branch -D
+  rbd = push —-delete
