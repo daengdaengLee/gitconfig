@@ -4,6 +4,7 @@
 
 [alias]
   tree = log --graph --all --decorate --oneline
+  g = log —-graph —-decorate —-oneline
   c = commit
   ck = checkout
   cln = remote prune
