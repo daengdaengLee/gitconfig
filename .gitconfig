@@ -1,13 +1,15 @@
 [user]
   name = <username>
   email = <email>
-
 [alias]
   tree = log --graph --all --decorate --oneline
-  g = log —-graph —-decorate —-oneline
+  g = log --graph --decorate --oneline
   c = commit
+  b = branch
   ck = checkout
   cln = remote prune
   bd = branch -d
   bD = branch -D
-  rbd = push —-delete
+  rbd = push --delete
+[core]
+  editor = vim
