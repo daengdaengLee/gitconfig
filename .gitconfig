@@ -8,6 +8,7 @@
   ps = push
   b = branch
   ck = checkout
+  r = rebase
   cln = remote prune
   bd = branch -d
   bD = branch -D
