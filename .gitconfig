@@ -5,6 +5,7 @@
   tree = log --graph --all --decorate --oneline
   g = log --graph --decorate --oneline
   c = commit
+  ps = push
   b = branch
   ck = checkout
   cln = remote prune
